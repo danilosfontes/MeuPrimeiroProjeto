@@ -1,3 +1,3 @@
-# MeuPrimeiroProjetoteste 1
-bolacha 
-biscoito
+# MeuPrimeiroProjeto
+
+Projeto consiste inicialmente em um programa de calculadora, que furamente será criado um layout.
